@@ -15,4 +15,14 @@ Cada funcionalidad se desarrolló en una branch separada, siguiendo el flujo:
 `branch → cambios → commit → push → Pull Request → revisión → merge`
 
 ## Mi progreso
-Estoy aprendiendo a usar branches, commits y Pull Requests con este repositorio.
+Actualmente estoy fortaleciendo mis conocimientos en:
+
+- Branches
+- Commits
+- Repositorios remotos
+- Pull Requests
+- Merge de cambios (sin conflictos)
+- Control de versiones con Git y GitHub
+
+## Objetivo
+Continuar desarrollando mis habilidades en desarrollo web y control de versiones, aplicándolas en proyectos personales y académicos.
